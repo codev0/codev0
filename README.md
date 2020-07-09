@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Alfabank Kazakhstan
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on share knowlege
+- 🤔 I’m looking for help with application design and architecture
+- 💬 Ask me about tiring
+- 📫 How to reach me: dakanca@gmail.com
+- 😄 Pronouns: ARGIN
+- ⚡ Fun fact: I know this, but anyways write 💩 code
+
 <!--
 **codev0/codev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
