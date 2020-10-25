@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on sharing knowledge
 - 🤔 I’m looking for help with application design and architecture
 - 💬 Ask me about being tired
-- 📫 How to reach me: dakanca@gmail.com
+- 📫 How to reach me: airat.zhanshuakov@gmail.com
 - 😄 Pronouns: Argyn
 - ⚡ Fun fact: I know this, but anyways write 💩 code
