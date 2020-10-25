@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Alfabank Kazakhstan
+- 🔭 I’m currently working at Alfabank Kazakhstan
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on share knowlege
+- 👯 I’m looking to collaborate on sharing knowledge
 - 🤔 I’m looking for help with application design and architecture
-- 💬 Ask me about tiring
+- 💬 Ask me about being tired
 - 📫 How to reach me: dakanca@gmail.com
-- 😄 Pronouns: ARGIN
+- 😄 Pronouns: Argyn
 - ⚡ Fun fact: I know this, but anyways write 💩 code
-
-<!--
-**codev0/codev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
